@@ -12,7 +12,7 @@ cd cower
 makepkg -sif
 
 echo "Making pacaur"
-cd../pacaur
+cd ../pacaur
 makepkg -sif
 
 echo "Cleaning up"
